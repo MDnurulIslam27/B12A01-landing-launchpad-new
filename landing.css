@@ -228,20 +228,24 @@ div ul li a{
     font-weight: 900px;
     font-size: 100px;
     margin-top: 104px;
+    margin-bottom: 0px;
     
 }
 .footer-description{
     color: rgba(137, 135, 161, 1);
     font-size: 16px;
     font-weight: 400px;
-    border: 1px solid black;
-    margin-top: 20px;
+    margin-top: 0px;
+    padding:0px 200px;
+    margin-bottom: 0px;
     
     
 }
 .link{
    
     font-size: 16px;
+    margin-top: 0px;
+    padding: 0px 0px;
 }
 .card-about{
     width: 1140px;
@@ -298,8 +302,9 @@ margin: 0px
 }
 .card-container{
     display: flex;
-    gap: 50px;
-    margin: 60px 0 20px 350px;
+    gap: 150px;
+    margin: 60px 0px 20px 200px;
+    border:1px solid black;
 }
 .all-button:hover{
     color: black;
