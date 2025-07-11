@@ -74,7 +74,7 @@
      border: none;
     padding: 12px 30px;
     margin-bottom: 120px;
-    width: 174px;
+    width: 229px;
     height: 48px;
 }
 .opening-2{
@@ -83,19 +83,25 @@
 .action-title{
     font-weight: bold;
     font-size: 42px;
+    width: 517px;
+    color: #252432;
 
 }
 .action-description{
     font-weight:400;
     font-size: 24px;
+    color: rgba(37, 36, 50, 0.5);
+  
 }
 .action{
     display: flex;
     justify-content: space-around;
+    margin-top: 116px;
+
 
 }
 .action-image{
-    width: 403px;
+    width: 380px;
     height: 328px;
     border-radius: 48px;
 }
@@ -122,9 +128,13 @@
     font-weight: bold;
     font-size: 38;
     color: #252432;
+    margin: auto;
 
 
 
+}
+.about-productivity{
+    margin-top: 48px;
 }
 
 
@@ -142,13 +152,14 @@ color: rgba(78, 71, 255, 1);
 color: rgba(0, 0, 0, 0.5);
 font-weight: 400;
 font-size: 20px;
-
-
+margin-top: 0px;
+ 
 }
 
 .touch-section{
    display:flex;
    justify-content: space-around;
+   background-color: rgba(255, 255, 255, 1);
 }
 .touch-section-title{
     width: 528px;
@@ -160,13 +171,17 @@ font-size: 20px;
     width: 497px;
     font-size: 18px;
     font-weight: 500;
+    margin-top: 10px;
+
+    
 }
 .form-types{
     width: 497px;
     font-weight: 400px;
-    border-color: rgba(0, 0, 0, 0.5);
     height: 84px;
     font-size: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    margin-top: 10px;
 }
 .message-height{
     height: 150px;
@@ -176,6 +191,8 @@ font-size: 20px;
     height: 62px;
     font-size: 16px;
     font-weight: bold;
+    border: none;
+    margin-top: 20px;
 }
 .footer-section{
    
@@ -215,13 +232,16 @@ div ul li a{
 }
 .footer-description{
     color: rgba(137, 135, 161, 1);
-    font-size: 30px
+    font-size: 16px;
+    font-weight: 400px;
+    border: 1px solid black;
+    margin-top: 20px;
     
     
 }
 .link{
    
-    font-size: 30px;
+    font-size: 16px;
 }
 .card-about{
     width: 1140px;
