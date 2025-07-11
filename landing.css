@@ -211,7 +211,62 @@ div ul li a{
 .link{
    
     font-size: 30px;
+}
+.card-about{
+    width: 1140px;
+    height: 49px;
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    text-align: center;
+    margin: auto;
+}
+.card-container{
+    width: 366px;
+    height: 243px;
+    border: 1px solid #F2EDED;
+    border-radius: 14px;
+    padding: 10px;
     
+}
+.card-footer{
+    display: flex;
+    gap: 20px;
+}
+.image{
+    width: 70px;
+    height: 70px;
+}
+.card-title{
+    color: rgba(30, 30, 30, 1);
+    height: 29px;
+    width: 221px;
+    font-size: 24;
+    font-weight: 700px;
+}
+.card-description{
+    color: rgba(30, 30, 30, 1);
+    width:319px ;
+    height:44px ;
+    font-size: 16px;
+}
+.card-section{
+    max-width: 1140px;
+    background-color: ;
+}
+.footer-2{
+padding: auto;
+margin: 0px
+}
+.reviewer{
+    color: #757575;
     
-
+}
+.date{
+    color: #B3B3B3;
+}
+.card-container{
+    display: flex;
+    gap: 50px;
+    margin: 60px 0 20px 350px;
 }
