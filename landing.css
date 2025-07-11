@@ -49,6 +49,8 @@
 }
 .hero-image{
     background-image: url(./Assets/Hero-bg.png);height: 798px;
+   
+    
   
 }
 .about{
@@ -65,4 +67,80 @@
 }
 .opening-2{
     text-align: center;
+}
+.action-title{
+    font-weight: bold;
+    font-size: 42px;
+
+}
+.action-description{
+    font-weight:400;
+    font-size: 24px;
+}
+.action{
+    display: flex;
+    justify-content: space-around;
+
+}
+.action-image{
+    width: 403px;
+    height: 328px;
+    border-radius: 48px;
+}
+.action-div{
+    text-align: left;
+}
+.productive-users{
+  background-color: rgba(78, 71, 255, 0.09) ;
+  max-width: 1140px;
+  height: 280px;
+  border-radius: 24;
+  margin:116px 159px 137px 141px;
+  text-align: center;
+  padding: 50px 142px;
+
+}
+.productivity-items{
+    display: flex;
+    justify-content: space-around;
+}
+.productive-title{
+    width: 694px;
+    height: 45px;
+    font-weight: bold;
+    font-size: 38;
+    color: #252432;
+
+
+
+}
+
+
+
+
+.number-productivity{
+font-weight: bold;
+font-size: 80px;
+width: 162px;
+height: 97px;
+margin: auto auto;
+color: rgba(78, 71, 255, 1);
+}
+.prductivity-discription{
+color: rgba(0, 0, 0, 0.5);
+font-weight: 400;
+font-size: 20px;
+
+
+}
+
+.touch-section{
+   display:flex;
+   justify-content: space-around;
+}
+.touch-section-title{
+    width: 528px;
+    height: 232px;
+    font-size: 97px;
+    font-weight: bold;
 }
