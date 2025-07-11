@@ -150,3 +150,19 @@ font-size: 20px;
     font-size: 18px;
     font-weight: 500;
 }
+.form-types{
+    width: 497px;
+    font-weight: 400px;
+    border-color: rgba(0, 0, 0, 0.5);
+    height: 84px;
+    font-size: 20px;
+}
+.message-height{
+    height: 150px;
+}
+.form-button{
+    width: 497px;
+    height: 62px;
+    font-size: 16px;
+    font-weight: bold;
+}
